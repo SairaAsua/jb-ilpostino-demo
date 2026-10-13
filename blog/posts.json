@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "filename": "primera-carta.html",
+    "url": "https://sairaasua.github.io/jb-ilpostino-demo/blog/primera-carta.html",
+    "fecha": "2026-10-13",
+    "titulo": "La primera carta",
+    "excerpt": "Esta es una entrada de muestra de Il Postino. Podés abrirla, mirar la imagen y volver al índice del blog o a la portada.  En tu propio espacio, las cartas serán tuyas: relatos, fotos, proyectos y lo q",
+    "tiene_foto": true,
+    "text": "Esta es una entrada de muestra de Il Postino. Podés abrirla, mirar la imagen y volver al índice del blog o a la portada.\n\nEn tu propio espacio, las cartas serán tuyas: relatos, fotos, proyectos y lo que elijas compartir. La web reúne esas publicaciones en un lugar propio, con un enlace que podés pasar a cualquiera.\n\nEsta imagen es una ilustración de prueba, sin datos personales."
+  }
+]

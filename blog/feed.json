@@ -1,8 +1,16 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Blog — Il Postino · demo",
-  "home_page_url": "https://SairaAsua.github.io/jb-ilpostino-demo/blog/",
-  "feed_url": "https://SairaAsua.github.io/jb-ilpostino-demo/blog/feed.json",
+  "home_page_url": "https://sairaasua.github.io/jb-ilpostino-demo/blog/",
+  "feed_url": "https://sairaasua.github.io/jb-ilpostino-demo/blog/feed.json",
   "language": "es",
-  "items": []
+  "items": [
+    {
+      "id": "https://sairaasua.github.io/jb-ilpostino-demo/blog/primera-carta.html",
+      "url": "https://sairaasua.github.io/jb-ilpostino-demo/blog/primera-carta.html",
+      "title": "La primera carta",
+      "summary": "Esta es una entrada de muestra de Il Postino. Podés abrirla, mirar la imagen y volver al índice del blog o a la portada.  En tu propio espacio, las cartas serán tuyas: relatos, fotos, proyectos y lo q",
+      "content_text": "Esta es una entrada de muestra de Il Postino. Podés abrirla, mirar la imagen y volver al índice del blog o a la portada.\n\nEn tu propio espacio, las cartas serán tuyas: relatos, fotos, proyectos y lo que elijas compartir. La web reúne esas publicaciones en un lugar propio, con un enlace que podés pasar a cualquiera.\n\nEsta imagen es una ilustración de prueba, sin datos personales."
+    }
+  ]
 }

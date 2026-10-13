@@ -1,5 +1,14 @@
 [
   {
+    "filename": "segunda-carta.html",
+    "url": "https://sairaasua.github.io/jb-ilpostino-demo/blog/segunda-carta.html",
+    "fecha": "2026-10-13",
+    "titulo": "Un blog que sigue creciendo",
+    "excerpt": "Un blog se construye entrada por entrada. Esta segunda carta se suma a la primera y conserva su lugar en el archivo.  Podés recorrer las dos desde el índice, volver a la portada o seguir el feed del b",
+    "tiene_foto": false,
+    "text": "Un blog se construye entrada por entrada. Esta segunda carta se suma a la primera y conserva su lugar en el archivo.\n\nPodés recorrer las dos desde el índice, volver a la portada o seguir el feed del blog."
+  },
+  {
     "filename": "primera-carta.html",
     "url": "https://sairaasua.github.io/jb-ilpostino-demo/blog/primera-carta.html",
     "fecha": "2026-10-13",

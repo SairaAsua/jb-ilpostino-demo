@@ -6,6 +6,13 @@
   "language": "es",
   "items": [
     {
+      "id": "https://sairaasua.github.io/jb-ilpostino-demo/blog/segunda-carta.html",
+      "url": "https://sairaasua.github.io/jb-ilpostino-demo/blog/segunda-carta.html",
+      "title": "Un blog que sigue creciendo",
+      "summary": "Un blog se construye entrada por entrada. Esta segunda carta se suma a la primera y conserva su lugar en el archivo.  Podés recorrer las dos desde el índice, volver a la portada o seguir el feed del b",
+      "content_text": "Un blog se construye entrada por entrada. Esta segunda carta se suma a la primera y conserva su lugar en el archivo.\n\nPodés recorrer las dos desde el índice, volver a la portada o seguir el feed del blog."
+    },
+    {
       "id": "https://sairaasua.github.io/jb-ilpostino-demo/blog/primera-carta.html",
       "url": "https://sairaasua.github.io/jb-ilpostino-demo/blog/primera-carta.html",
       "title": "La primera carta",
